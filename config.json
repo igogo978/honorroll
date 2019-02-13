@@ -1,0 +1,10 @@
+{
+	"clientid": "3b6d5509218b37da121f0d9984516b8d",
+	"secret": "9ef6a9b78cc4ece6d42b2da755f8e5fb",
+	"honor_items": 2,
+	"line_length": 14,
+	"screen_lines": 8,
+	"exclusion": "校內活動,學習表現",
+	"accesstoken_endpoint": "https://api.tc.edu.tw/oauth?authorize",
+	"honor_endpoint": "https://api.tc.edu.tw/honor"
+}
